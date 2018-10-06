@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CasitasHilaryExam1</string>
+    <string name="name1">Hayley Williams</string>
+    <string name="name2">Zac Farro</string>
+    <string name="name3">Taylor York</string>
+    <string name="image_desc1">(born December 27, 1988) is an American singer, songwriter, and musician. She serves as the lead vocalist, primary songwriter and occasional keyboardist of the rock band Paramore.</string>
+    <string name="image_desc2">(born June 4th 1990) was the first and current drummer for the rock band Paramore to which he is also one of the founding members of.</string>
+    <string name="image_desc3">The rhythm guitarist for the alternative/pop-punk band Paramore and was born December 17, 1989 (age 28) in Nashville, Tennessee.</string>
+
+</resources>
